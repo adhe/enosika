@@ -12,7 +12,7 @@ npm run
 
 ### Tailwind CSS usage
 In development process, you may need to use full classes to build html. Therefore, set purge `enabled: false;`
-Once ready for production, set purge `enabled: true;` to compile css only used classes from your html.
+Once ready for production, set purge `enabled: true;` to compile only used classes from your html.
 
 Run npm to purge/compile  
 ```javascript
