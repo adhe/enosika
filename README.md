@@ -1,5 +1,5 @@
 # Enosika
-Enosika web html for quick demo. This is a non-functioinal app as it is stil html only. Consider to add other stacks (ex. php, javascript) to improve the functioinality.
+Enosika web html for quick demo. This is a non-functioinal app as it is stil html only. Consider to add more stacks (ex. php, javascript) to improve the functionality.
 
 ### Stacks used
 * Vue via CDN
